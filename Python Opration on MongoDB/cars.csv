@@ -1,0 +1,27 @@
+prodid,prodnm,company,price
+bm201,XM,BMW,12500000.0
+bm202,X1,BMW,4145000.0
+hd141,Venue,Hyundai,753000.0
+hd142,Creta,Hyundai,1044000.0
+hd143,i20,Hyundai,707000.0
+hd144,i10,Hyundai,542000.0
+ho161,City,Honda,950000.0
+ho162,Amaze,Honda,665000.0
+ms131,Swift,Maruti Suzuki,591000.0
+ms132,Grand Vitara,Maruti Suzuki,1035000.0
+ms133,Brezza,Maruti Suzuki,799000.0
+ms134,Baleno,Maruti Suzuki,642000.0
+ms135,WagonR,Maruti Suzuki,547000.0
+sk181,Kushaq,Skoda,1158000.0
+sk182,Superb,Skoda,3416000.0
+sk183,Kodiaq,Skoda,3749000.0
+to191,Fortuner,Toyota,3258000.0
+to192,Glanza,Toyota,659000.0
+to193,Innova,Toyota,1809000.0
+tt151,Nexon,Tata,769000.0
+tt152,Punch,Tata,600000.0
+tt153,Safari,Tata,1545000.0
+vw171,Virtus,Volkswagen,1132000.0
+vw172,Taigun,Volkswagen,1256000.0
+vw173,Tiguan,Volkswagen,3375000.0
+vw174,CrossPolo,Volkswagen,945000.0
